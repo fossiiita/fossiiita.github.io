@@ -122,9 +122,8 @@ a:hover, a:active, a:focus {
     All Section style              
 -----------------------------------------*/
 #gsoc {
-  background-image: url("../images/banner.png");
-  background-size: contain;
-  background-repeat: no-repeat;
+  background-image: url("../images/banner.jpg");
+  background-size: cover;
   width: 100%;
 }
 .section-title {
